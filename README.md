@@ -1,4 +1,4 @@
-# filter-fatigue
+# Filter Fatigue
 
 Filter Fatigue is cognitive exhaustion caused by continuous relevance filtering
 in high-entropy information environments, where attention is repeatedly taxed
