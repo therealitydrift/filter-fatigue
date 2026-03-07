@@ -8,6 +8,10 @@ Filter Fatigue is cognitive exhaustion produced by continuous relevance filterin
 
 As digital systems personalize and optimize experience, individuals absorb the work of interpreting signals, ranking relevance, and maintaining context. Over time this continuous filtering depletes attention and weakens meaning.
 
+## Visual Explanation
+
+<img width="1024" height="1024" alt="Filter Fatigue Cycle" src="https://github.com/user-attachments/assets/36362676-b1d9-40e5-9358-cc42ff171979" />
+
 ## Relationship to Reality Drift
 
 Within the Reality Drift framework, Filter Fatigue represents the cognitive cost of high-entropy environments.
